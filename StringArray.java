@@ -7,6 +7,7 @@ public class StringArray {
 		// TODO Auto-generated method stub
 		String[] strArray= {"Anil","Sam","Joe","Anee","automation"};
 		
+		System.out.println("Ii am updating this file");
 		boolean findname=false;
 		int in=0;
 		String s="Sam1";
